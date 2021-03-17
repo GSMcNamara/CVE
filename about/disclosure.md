@@ -18,11 +18,11 @@ If you follow these guidelines when reporting an issue to us, we commit to:
 
 
 **Scope**  
-* [https://github.com/GSMcNamara/Floodspark]
-* [https://github.com/GSMcNamara/Wordpress-Counterespionage-Firewall]
-* [Floodspark.com]
-* [Demo.Floodspark.com]
-* [GSMcNamara.com]
+* [https://github.com/GSMcNamara/Floodspark](https://github.com/GSMcNamara/Floodspark)
+* [https://github.com/GSMcNamara/Wordpress-Counterespionage-Firewall](https://github.com/GSMcNamara/Wordpress-Counterespionage-Firewall)
+* [Floodspark.com](https://floodspark.com)
+* [Demo.Floodspark.com](http://demo.floodspark.com)
+* [GSMcNamara.com](http://gsmcnamara.com)
 
 **Out of scope**  
 Any services hosted by 3rd party providers and services are excluded from scope. These services include:

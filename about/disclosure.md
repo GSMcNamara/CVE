@@ -26,7 +26,7 @@ If you follow these guidelines when reporting an issue to us, we commit to:
 
 **Out of scope**  
 Any services hosted by 3rd party providers and services are excluded from scope. These services include:
-* [AWS]
+* AWS
 
 In the interest of the safety of our users, staff, the Internet at large and you as a security researcher, the following test types are excluded from scope: 
 * Findings from physical testing such as office access (e.g. open doors, tailgating)
